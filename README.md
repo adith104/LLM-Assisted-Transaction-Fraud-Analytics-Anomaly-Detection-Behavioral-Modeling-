@@ -1,6 +1,4 @@
-Here is a clean, professional **README.md** with no emojis—focused, technical, and suitable for GitHub.
 
----
 
 # LLM-Assisted Transaction Fraud Analytics 
 
@@ -132,11 +130,6 @@ The pipeline produces:
 * Visual diagnostics
 * A full AML-style narrative for the highest-risk cases
 
----
 
-## Disclaimer
-
-This project is intended solely for research, education, and prototyping.
-It is not a production fraud-detection system and must not be used for real financial decision-making.
 
 
