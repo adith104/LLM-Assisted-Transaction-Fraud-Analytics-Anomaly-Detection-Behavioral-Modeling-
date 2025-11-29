@@ -139,11 +139,4 @@ The pipeline produces:
 This project is intended solely for research, education, and prototyping.
 It is not a production fraud-detection system and must not be used for real financial decision-making.
 
----
 
-If you'd like, I can also create:
-
-* a `requirements.txt`
-* a project folder structure
-* a more formal technical documentation section
-* or an architecture diagram.
